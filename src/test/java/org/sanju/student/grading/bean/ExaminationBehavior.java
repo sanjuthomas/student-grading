@@ -10,7 +10,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
 /**
  * This test shall test all behaviors in Examination class.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class ExaminationBehavior {

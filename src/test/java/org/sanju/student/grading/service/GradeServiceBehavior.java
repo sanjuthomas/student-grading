@@ -20,7 +20,7 @@ import org.sanju.student.grading.service.GradeSerive;
 /**
  * This class shall test all behavior of GradeService.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class GradeServiceBehavior {

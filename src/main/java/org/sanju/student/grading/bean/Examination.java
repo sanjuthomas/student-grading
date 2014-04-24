@@ -5,7 +5,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
 /**
  * Pojo class for examination
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class Examination extends CourseWork {

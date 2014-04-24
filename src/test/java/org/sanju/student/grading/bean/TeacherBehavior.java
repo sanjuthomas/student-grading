@@ -9,7 +9,7 @@ import org.sanju.student.grading.bean.Teacher;
 /**
  * This test class shall test all behaviors of Teacher class.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class TeacherBehavior {

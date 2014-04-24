@@ -13,7 +13,7 @@ import org.sanju.student.grading.service.WeightageConfigurationService;
 /**
  * This class shall test all the behavior in WeightageConfigurationService
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class WeightageConfigurationServiceBehavior {

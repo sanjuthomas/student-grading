@@ -10,7 +10,7 @@ import org.sanju.student.grading.service.TeacherService;
 /**
  * Test class to test TeacherService class.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class TeacherServiceBehavior {

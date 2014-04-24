@@ -12,7 +12,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
 /**
  * This test class shall test all the behavior of WeightageConfiguration
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class WeightageConfigurationBehavior {

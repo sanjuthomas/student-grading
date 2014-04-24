@@ -3,7 +3,7 @@ package org.sanju.student.grading.enums;
 /**
  * Enum to represent different types of course work.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 

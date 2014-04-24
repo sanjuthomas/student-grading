@@ -3,7 +3,7 @@ package org.sanju.student.grading.bean;
 /**
  * Score Pojo
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class Score {

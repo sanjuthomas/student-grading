@@ -3,7 +3,7 @@ package org.sanju.student.grading.bean;
 /**
  * Pojo class to capture all state and behavior of Teacher
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class Teacher {

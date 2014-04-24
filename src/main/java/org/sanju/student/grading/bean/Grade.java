@@ -3,7 +3,7 @@ package org.sanju.student.grading.bean;
 /**
  * Pojo class for Grade
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class Grade {

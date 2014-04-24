@@ -9,7 +9,7 @@ import org.sanju.student.grading.bean.Score;
 /**
  * This test class test all behaviors in Score class.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class ScoreBehavior {

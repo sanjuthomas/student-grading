@@ -11,7 +11,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
  * Since ExaminationWeightage and AssignmentWeightage are not 
  * part of the Teacher object we are creating a configuration object.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class WeightageConfiguration {

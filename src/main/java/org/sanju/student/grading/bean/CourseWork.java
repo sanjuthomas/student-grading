@@ -5,7 +5,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
 /**
  * This class shall encapsulate the common state and behavior for assignment and examination.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public abstract class CourseWork {

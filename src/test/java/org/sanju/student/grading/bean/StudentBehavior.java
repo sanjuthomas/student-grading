@@ -17,7 +17,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
 /**
  * Test class to test Student behaviors.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class StudentBehavior {

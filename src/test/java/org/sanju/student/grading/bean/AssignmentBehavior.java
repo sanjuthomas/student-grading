@@ -13,7 +13,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
 /**
  * Test class to test Assignment behaviors.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class AssignmentBehavior {

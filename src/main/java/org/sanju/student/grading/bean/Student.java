@@ -10,7 +10,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
 /**
  * Student pojo class.
  * 
- * @author Kalai
+ * @author thosan
  *
  */ 
 public class Student {

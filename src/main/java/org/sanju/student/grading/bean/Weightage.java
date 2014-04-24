@@ -5,7 +5,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
 /**
  * Pojo class for Weightage.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class Weightage {

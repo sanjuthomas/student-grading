@@ -5,7 +5,7 @@ import org.sanju.student.grading.bean.Teacher;
 /**
  * Service class to handle teacher object.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class TeacherService {

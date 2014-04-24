@@ -7,7 +7,7 @@ import org.sanju.student.grading.bean.WeightageConfiguration;
 /**
  * This class shall contains all service method related WeightageConfiguration
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class WeightageConfigurationService {

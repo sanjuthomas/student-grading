@@ -12,7 +12,7 @@ import org.sanju.student.grading.enums.CourseWorkType;
 /**
  * Service class for grading.
  * 
- * @author Kalai
+ * @author thosan
  *
  */
 public class GradeSerive {
