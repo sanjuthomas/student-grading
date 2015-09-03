@@ -1,4 +1,9 @@
 
+Author : Sanju Thomas
+contact : sanju@sanju.org
+
+
+
 Student Grading Kata
 --------------------
 
