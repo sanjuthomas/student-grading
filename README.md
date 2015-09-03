@@ -1,6 +1,6 @@
 
-Author : Sanju Thomas
-contact : sanju@sanju.org
+Author : Sanju Thomas, 
+email : sanju@sanju.org
 
 
 
